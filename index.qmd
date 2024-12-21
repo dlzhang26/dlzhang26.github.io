@@ -1,10 +1,8 @@
 ---
-title: "Title"
+title: "About"
 subtitle: "Optional subtitle"
 author: 
-- "Author 1"
-- "Author 2"
-- "Author 3"
+- "Donna Zhang"
 abstract: "A brief abstract summarizing your project. This abstract, along with the image specified in `_quarto.yml` will be used as a preview to your blog on the course's landing page for all the blogs."
 ---
 
